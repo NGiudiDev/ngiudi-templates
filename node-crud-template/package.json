@@ -10,13 +10,16 @@
   },
   "dependencies": {
     "express": "5.2.1",
-    "sequelize": "6.37.7",
-    "mysql2": "3.16.2"
+    "sequelize": "6.37.8",
+    "mysql2": "3.19.1"
   },
   "devDependencies": {
-    "@eslint/js": "9.39.2",
-    "eslint": "9.39.2",
-    "globals": "17.2.0",
-    "nodemon": "3.1.11"
+    "@eslint/js": "10.0.1",
+    "eslint": "10.0.3",
+    "globals": "17.4.0",
+    "nodemon": "3.1.14"
+  },
+  "engines": {
+    "node": "24.14.0"
   }
 }
